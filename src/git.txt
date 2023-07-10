@@ -1,2 +1,7 @@
 #Creat and switch to a Branch :
 git checkout -b addmaetrialui
+
+#git push on Branch : 
+git push -u origin addmaetrialui
+
+# merge to master :
